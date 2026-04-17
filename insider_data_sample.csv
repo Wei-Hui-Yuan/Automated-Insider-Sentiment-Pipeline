@@ -1,0 +1,11 @@
+symbol,reportingName,typeOfOwner,transactionType,securitiesTransacted,price,fillingDate
+AAPL,Cook Timothy D,Chief Executive Officer,P-Purchase,5000,225.50,2026-04-10
+SOFI,Noto Anthony,CEO,P-Purchase,25000,7.20,2026-04-12
+SOFI,Lapointe Derek,Director,P-Purchase,15000,7.15,2026-04-13
+SOFI,Meyer Chad,Director,P-Purchase,12000,7.18,2026-04-14
+NKE,Knight Philip H,Director,P-Purchase,10000,95.00,2026-04-11
+NKE,Parker Mark G,Executive Chairman,P-Purchase,8000,96.50,2026-04-12
+CELH,Castillo John,Director,P-Purchase,1500,82.00,2026-04-09
+CELH,Fieldly John,CEO,P-Purchase,2000,81.50,2026-04-10
+CELH,Halim Marcus,Director,P-Purchase,1200,83.00,2026-04-11
+LLY,Ricks David A,Chief Executive Officer,P-Purchase,2000,850.00,2026-04-15
