@@ -45,7 +45,8 @@ The pipeline generates structured data optimized for the following Power BI visu
 3. **Configure Identity:** - In the **SEC Version**, update the `HEADERS` dictionary with your email to comply with SEC fair-access policies.
    - In the **API Version**, add your Financial Modeling Prep API key.
 4. **Set File Paths:** Ensure the file paths for `insider_data_sample.csv` and `ownership_data_sample.csv` are correctly mapped in the script.
-5. **Run in Power BI:** Copy the script into the Power BI "Get Data > Python Script" connector.
+5. **Run in Power BI:** Copy the script into the Power BI "Get Data > Python Script" connector or download the Insider_Trading_Cluster_Analysis.pbix file and open it with Power BI Desktop to explore the interactive conviction
+matrix and cluster signals.
 
 
 
