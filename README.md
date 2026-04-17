@@ -32,7 +32,7 @@ This repository provides two distinct methodologies for data acquisition. While 
 - **Data Source:** US SEC EDGAR / Financial Modeling Prep API
 
 ## 📊 Dashboard Visuals
-![Automated Insider Sentiment Dashboard](<img width="1223" height="709" alt="image" src="https://github.com/user-attachments/assets/fba34725-f534-4b3b-a6f7-2152d3b62570" />)
+<img width="1223" height="709" alt="image" src="https://github.com/user-attachments/assets/fba34725-f534-4b3b-a6f7-2152d3b62570" />
 
 The pipeline generates structured data optimized for the following Power BI visuals:
 1. **The Conviction Bar Chart:** Highlights tickers with 3+ unique insider buyers using conditional formatting.
