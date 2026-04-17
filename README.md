@@ -32,6 +32,8 @@ This repository provides two distinct methodologies for data acquisition. While 
 - **Data Source:** US SEC EDGAR / Financial Modeling Prep API
 
 ## 📊 Dashboard Visuals
+![Automated Insider Sentiment Dashboard](<img width="1223" height="709" alt="image" src="https://github.com/user-attachments/assets/fba34725-f534-4b3b-a6f7-2152d3b62570" />)
+
 The pipeline generates structured data optimized for the following Power BI visuals:
 1. **The Conviction Bar Chart:** Highlights tickers with 3+ unique insider buyers using conditional formatting.
 2. **Seniority Donut Chart:** Breakdown of purchases by executive title to assess signal quality.
@@ -44,4 +46,6 @@ The pipeline generates structured data optimized for the following Power BI visu
    - In the **API Version**, add your Financial Modeling Prep API key.
 4. **Set File Paths:** Ensure the file paths for `insider_data_sample.csv` and `ownership_data_sample.csv` are correctly mapped in the script.
 5. **Run in Power BI:** Copy the script into the Power BI "Get Data > Python Script" connector.
+
+
 
